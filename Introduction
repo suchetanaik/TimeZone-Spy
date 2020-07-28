@@ -1,0 +1,80 @@
+INTRODUCTION:
+
+This project is aimed at developing a tracking application useful to be used in an organization. The Timezone-Spy is a computer application that can be accessed throughout the organization. This application can be used for tracking computers connected to the network. There are features like set break, get break, etc. for the users using this application.
+
+There are some main components of this project. They are given below:
+ADMINISTRATOR:
+Administrator can perform these following tasks:
+User Maintenance:
+Users of this application can be employee, student, etc. Employees can be recruited by the administrator. Administrator is authenticated to add user and track user.
+
+Role Management:
+In this application role management can be done by the administrator only. The roles played by the administrator can be as follows:
+The administrator can send messages to all the users that are currently logged in the application.
+
+The administrator can track the user by setting a time for taking screenshot automatically by the application.
+
+
+Component Maintenance
+Here component in the sense of software which are using in this application. The component can be classified into different types and modules
+Operating System Software
+Programming Software
+Networking Software
+Data Base Software
+
+OPERATIONAL ADMINISTRATOR:
+In this application named as Timezone-Spy, the one who is responsible for solving any defect in the application is called as Operational Administrator. Every operational administrator will come to know is any user has logged-in or logged-out. The messages received by all the users will be sent by this operational administrator. After receiving screenshots from the user’s desktop, this administrator can see it on desktop.   
+
+OPERATOR:
+In this application named as Timezone-Spy, the operator can be employee, student, etc. An operator’s role is to set break i.e. to click on set break button so that the administrator can be notified that the user is on break, end break i.e. to click on end break button so that the administrator can be notified that the user has ended break and can enter break reason in order to inform the operator about the reason for the break taken. 
+
+
+
+
+
+
+MERITS OF THE APPLICATION:
+The project is identified by the merits of the system offered to the user. The merits of this project are as follows:
+
+This application is a windows form application.
+
+This project offers the admin to track the usage of all the computers connected to the server by just one click.
+
+The admin is more concerned about the usage of the computers used by the users.
+
+Sometimes the admin finds in the later stages of using project that the message needs to be updated and the new message can be updated but the previous message sent to all the users through this application.
+
+Admin is provided the option of monitoring the records he entered earlier. He can see the desired records of the users.
+
+Data storage and retrieval will become faster and easier to maintain because data is stored in a systematic manner and in a single database.
+
+Decision making process would be greatly enhanced because of faster processing of information since data collection from information available on computer takes much less time than manual system.
+
+Easier and faster data transfer through latest technology associated with the computer and communication.
+
+Through these features it will increase the efficiency, accuracy and transparency
+
+
+LIMITATIONS:
+
+The size of the database increases day-by-day, increasing the load on the database back up and data maintenance activity.
+
+The reports generated are stored in computers and if the hard disk is crash or if the data is lost the reports generated will also be lost.
+
+The user added by the admin cannot be deleted as it is required to keep the users track as database.
+
+The message sent by the admin to the users cannot be removed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
